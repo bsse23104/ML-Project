@@ -474,7 +474,7 @@ Typical performance on machinery sensor data (500 samples, ~80 features):
 | **XGBoost (tuned)** | ~3s | **93%** | **87%** | **88%** | **0.95** |
 | XGBoost + Threshold | N/A | 88% | 57% | **95%** ✓ | 0.95 |
 
-**Winner**: XGBoost with threshold optimization (maximum recall for production use)
+**Winner**: XGBoost with threshold optimization (max recall for production use)
 
 ---
 
