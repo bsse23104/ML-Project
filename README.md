@@ -12,7 +12,7 @@ A production-grade machine learning system for predicting machinery failures fro
 - **Threshold Optimization**: Dynamic threshold tuning for recall maximization
 - **Production Ready**: Complete logging, error handling, and serialization
 - **Reproducibility**: Fixed random seeds, configuration-driven design
-- **Comprehensive Evaluation**: Visualizations, metrics, and detailed reporting
+- **Comprehensive Evaluation**: Visualizations, metrics, and  detailed reporting
 
 ---
 
